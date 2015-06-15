@@ -2,4 +2,4 @@
 #
 #
 
-First project with Git, and modified.
+First, let's talk about Git.
